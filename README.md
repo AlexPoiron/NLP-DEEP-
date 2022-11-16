@@ -1,4 +1,4 @@
-# ING3-Projet-NLP-non-deep
+# Projet-NLP-deep
 
 ## Authors
 - Eliot LECLAIR
